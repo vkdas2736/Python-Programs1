@@ -1,0 +1,16 @@
+x=[10,20,30,40,20,30]
+print(x)
+y=[15,25,35,45]
+print(y)
+x.extend(y)
+print(x)
+x.reverse()
+print(x)
+x.sort()
+print(x)
+x.sort(reverse=True)
+print(x)
+z=y.copy()
+print(z)
+y.clear()
+print(y)

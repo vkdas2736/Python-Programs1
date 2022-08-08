@@ -1,0 +1,7 @@
+x=input("fname")
+y=input("scnd nmae")
+print(x+y)
+p=input("enter fno")
+print(type(p))
+i=int(p)
+q=input("secnd no")
